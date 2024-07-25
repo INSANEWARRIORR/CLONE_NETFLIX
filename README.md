@@ -25,7 +25,7 @@
 
 3) Start the development server: npm start
 
-##Backend Setup
+## Backend Setup
 1) Navigate to the backend directory: cd backend
 
 2) Install the required dependencies: npm install
